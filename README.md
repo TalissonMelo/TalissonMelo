@@ -23,7 +23,7 @@ Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">
