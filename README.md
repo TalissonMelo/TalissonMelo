@@ -11,6 +11,11 @@ Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ 
 - :heart: Tecnologias : <b> Java, JPA Hibernate, Ecossistema Spring, JavaScript, TypeScript... </b>
 
 ---
+
+ <details>
+  <summary> <b> <i>(Clique aqui para expandir)</i> </b> </summary>
+  </br>
+
 <center>
 <table>
   <tr>
@@ -19,11 +24,6 @@ Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ 
   </tr>  
 </table>
 </center>
-
- <details>
-  <summary> <b> <i>(Clique aqui para expandir)</i> </b> </summary>
-  </br>
-
 
 ## Tecnologias
 
