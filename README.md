@@ -7,7 +7,7 @@
 
 ## Olá! 🤝👨🏽‍🎓💻😄 
 
-Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ <b> Java e ecossistema Spring </b> ✨, criando e desenvolvendo <b> API REST, WEB SERVICES e MICROSERVICES </b> que podem ser consumidos por aplicações web e mobile utilizando Angular e ReactJs.
+Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ <b> Java e ecossistema Spring </b> ✨, criando e desenvolvendo <b> API REST, WEB SERVICES e MICROSERVICES </b> que podem ser consumidos por aplicações web e mobile utilizando  <b> Angular e ReactJs </b>, com testes automatizados no front-end utilizando <b> Cypress </b> e no back-end utilizando <b> JUnit e Mockito </b> .
 - :heart: Tecnologias : <b> Java, JPA Hibernate, Ecossistema Spring, JavaScript, TypeScript... </b>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
