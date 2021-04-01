@@ -25,7 +25,7 @@ Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ 
 <center>
 <table>
   <tr>
-     <td><img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonMelo&hide=html&layout=compact&theme=dark"/></td>
+     <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=TalissonMelo&theme=dark&show_icons=true" /></td>
      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonMelo&hide=html&layout=compact&theme=dark"/></td>
   </tr>  
 </table>
