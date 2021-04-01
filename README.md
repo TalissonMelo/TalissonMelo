@@ -8,7 +8,7 @@
 ## Olá! 🤝👨🏽‍🎓💻😄 
 
 <details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+  <summary><i>(Clique aqui para expandir)</i> </summary>
   <br>
 
 Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ <b> Java, Kotlin e ecossistema Spring </b> ✨, criando e desenvolvendo <b> API REST, WEB SERVICES e MICROSERVICES </b> que podem ser consumidos por aplicações web e mobile utilizando  <b> Angular </b>, com testes automatizados no front-end utilizando <b> Cypress </b> e no back-end utilizando <b> JUnit e Mockito </b> .
