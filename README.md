@@ -7,7 +7,7 @@
 
 ## Olá! 🤝👨🏽‍🎓💻😄 
 
-Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ <b> Java, Kotlin e ecossistema Spring </b> ✨, criando e desenvolvendo <b> API REST, WEB SERVICES e MICROSERVICES </b> que podem ser consumidos por aplicações web e mobile utilizando  <b> Angular e ReactJs </b>, com testes automatizados no front-end utilizando <b> Cypress </b> e no back-end utilizando <b> JUnit e Mockito </b> .
+Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ <b> Java, Kotlin e ecossistema Spring </b> ✨, criando e desenvolvendo <b> API REST, WEB SERVICES e MICROSERVICES </b> que podem ser consumidos por aplicações web e mobile utilizando  <b> Angular </b>, com testes automatizados no front-end utilizando <b> Cypress </b> e no back-end utilizando <b> JUnit e Mockito </b> .
 - :heart: Tecnologias : <b> Java, Kotlin, JPA Hibernate, Ecossistema Spring, JavaScript, TypeScript... </b>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -25,7 +25,8 @@ Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ 
 <center>
 <table>
   <tr>
-     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonMelo&hide=html&layout=compact&theme=dark" /></td>
+     <td><img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonMelo&hide=html&layout=compact&theme=dark"/></td>
+     <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonMelo&hide=html&layout=compact&theme=dark"/></td>
   </tr>  
 </table>
 </center>
