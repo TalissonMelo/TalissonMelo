@@ -25,12 +25,12 @@ Meu nome é Talisson, busco me aprimorar em projetos que utilizam linguagem ✨ 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
 <center>
 <table>
   <tr>
      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=TalissonMelo&theme=dark&show_icons=true" /></td>
-     <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonMelo&hide=html&layout=compact&theme=dark"/></td>
+     <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonMelo&&langs_count=8&layout=compact&theme=dark"/>
+</td>
   </tr>  
 </table>
 </center>
